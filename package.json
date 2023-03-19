@@ -1,6 +1,6 @@
 {
     "name": "@armstrongbell/callswitch-api-public",
-    "version": "1.10.0",
+    "version": "1.10.1",
     "description": "Armstrong Bell custom CallSwitch API",
     "main": "./lib/API.js",
     "scripts": {
